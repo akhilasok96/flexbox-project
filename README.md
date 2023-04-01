@@ -1,2 +1,1 @@
-# flexbox-project
-A basic landing page using flexbox
+Note: This landing page was made using basic flexbox implementations and it is not responsive in smaller or narrower displays.
